@@ -1,0 +1,54 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 263 ciObject found
+instanceKlass org/jetbrains/kotlin/synthetic/JavaSyntheticPropertiesScopeKt
+instanceKlass org/jetbrains/kotlin/synthetic/SyntheticJavaPropertyDescriptor$Companion$findByGetterOrSetter$2
+instanceKlass org/jetbrains/kotlin/codegen/binding/CodegenBinding
+instanceKlass org/jetbrains/kotlin/resolve/calls/util/FunctionTypeResolveUtilsKt
+instanceKlass org/jetbrains/kotlin/types/checker/NewKotlinTypeChecker$WhenMappings
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/ConstraintSystemBuilderImplKt
+instanceKlass org/jetbrains/kotlin/synthetic/SamAdapterFunctionsScope$MyFunctionDescriptor$Companion
+instanceKlass org/jetbrains/kotlin/load/java/sam/SingleAbstractMethodUtilsKt
+instanceKlass org/jetbrains/kotlin/builtins/functions/BuiltInFictitiousFunctionClassFactory$KindWithArity
+instanceKlass org/jetbrains/kotlin/parsing/BindAll
+instanceKlass org/jetbrains/kotlin/parsing/AllCommentsBinder
+instanceKlass org/jetbrains/kotlin/parsing/KotlinWhitespaceAndCommentsBindersKt
+instanceKlass org/jetbrains/kotlin/resolve/calls/checkers/RttiExpressionInformation
+instanceKlass org/jetbrains/kotlin/types/checker/NewCapturedTypeConstructor
+instanceKlass org/jetbrains/kotlin/types/TypeIntersector
+instanceKlass org/jetbrains/kotlin/types/CastDiagnosticsUtil
+instanceKlass org/jetbrains/kotlin/types/TypeReconstructionResult
+instanceKlass org/jetbrains/kotlin/types/expressions/TypeReconstructionUtil
+instanceKlass org/jetbrains/kotlin/resolve/calls/smartcasts/SmartCastReceiverValue
+instanceKlass org/jetbrains/kotlin/synthetic/JavaSyntheticPropertiesScope$MyPropertyDescriptor$Companion
+instanceKlass org/jetbrains/kotlin/synthetic/SyntheticJavaPropertyDescriptor$Companion
+instanceKlass sun/net/ResourceManager
+instanceKlass org/jetbrains/kotlin/resolve/LateinitModifierApplicabilityChecker
+instanceKlass org/jetbrains/kotlin/resolve/checkers/PublishedApiUsageChecker
+instanceKlass org/jetbrains/kotlin/resolve/OperatorModifierChecker
+instanceKlass org/jetbrains/kotlin/resolve/jvm/annotations/AnnotationUtilKt
+instanceKlass org/jetbrains/kotlin/resolve/annotations/AnnotationUtilKt
+instanceKlass org/jetbrains/kotlin/resolve/checkers/SimpleDeclarationChecker$DefaultImpls
+instanceKlass org/jetbrains/kotlin/resolve/AnnotationUseSiteTargetChecker
+instanceKlass org/jetbrains/kotlin/resolve/constants/CompileTimeConstantChecker
+instanceKlass org/jetbrains/kotlin/resolve/constants/evaluate/CompileTimeType
+instanceKlass org/jetbrains/kotlin/resolve/constants/evaluate/ConstantExpressionEvaluatorKt
+instanceKlass org/jetbrains/kotlin/resolve/calls/smartcasts/IdentifierInfo$SafeCast
+instanceKlass org/jetbrains/kotlin/resolve/StatementFilterKt
+instanceKlass org/jetbrains/kotlin/resolve/BodyResolver$$Lambda$123
+instanceKlass org/jetbrains/kotlin/com/google/common/collect/TransformedIterator
+instanceKlass org/jetbrains/kotlin/resolve/calls/smartcasts/Nullability$1
+instanceKlass org/jetbrains/kotlin/resolve/calls/smartcasts/IdentifierInfo$NULL
+instanceKlass org/jetbrains/kotlin/types/expressions/OperatorConventions
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/ConstraintSystemImpl$WhenMappings
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/constraintPosition/CompoundConstraintPosition
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/constraintPosition/ConstraintPositionImpl
+instanceKlass org/jetbrains/kotlin/types/TypeUtils$3
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/TypeBounds$DefaultImpls
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/ConstraintSystem$DefaultImpls
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/TypeBoundsImpl$WhenMappings
+instanceKlass org/jetbrains/kotlin/types/CommonSupertypes
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/constraintPosition/ConstraintPosition$DefaultImpls
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/ConstraintSystemImpl$status$1
+instanceKlass org/jetbrains/kotlin/resolve/calls/inference/ConstraintSystemStatus
